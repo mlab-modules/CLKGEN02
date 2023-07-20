@@ -1,4 +1,5 @@
-description: null
+description: ' The module comprises a plurality of housings for mounting a variety
+  of crystal oscillators. '
 github_branch: CLKGEN02A
 github_repo: CLKGEN02
 github_url: https://github.com/mlab-modules/CLKGEN02
@@ -7,6 +8,14 @@ images:
 - doc/img/CLKGEN02A_top_small.jpg
 - doc/img/CLKGEN02A_QRcode.png
 mark: 50
-tags: []
+tags:
+- clock
+- clock-generator
+- mlab
+- mlab-module
+- pcb
+- clkgen
+- comm-rf
+- mlab-pcb
 title: CLKGEN02
-updated: '2023-07-20T00:10:50.839158+00:00'
+updated: '2023-07-20T00:13:53.302799+00:00'
