@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "CLKGEN02-rescue")(type "Legacy")(uri "${KIPRJMOD}/CLKGEN02-rescue.lib")(options "")(descr ""))
+)
