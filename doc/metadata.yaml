@@ -7,7 +7,16 @@ homepage: false
 images:
 - doc/img/CLKGEN02A_top_small.jpg
 - doc/img/CLKGEN02A_QRcode.png
+- doc/gen/img/CLKGEN02-top.png
+- doc/gen/img/CLKGEN02-bottom.png
+- doc/gen/CLKGEN02-schematic.svg
+- doc/gen/img/CLKGEN02-top.svg
+- doc/gen/img/CLKGEN02-bottom.svg
+- hw/cam_profi/assembly/CLKGEN02-assembly_page_02.svg
+- hw/cam_profi/assembly/CLKGEN02-assembly_page_01.svg
 mark: 50
+mod_ibom: hw/cam_profi/CLKGEN02-ibom.html
+mod_scheme: doc/gen/CLKGEN02-schematic.pdf
 status: 2
 tags:
 - clock
@@ -19,4 +28,4 @@ tags:
 - comm-rf
 - mlab-pcb
 title: CLKGEN02
-updated: '2023-09-17T08:06:49.237132+00:00'
+updated: '2023-09-17T08:09:52.392928+00:00'
