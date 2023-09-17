@@ -4,6 +4,7 @@ github_branch: CLKGEN02A
 github_repo: CLKGEN02
 github_url: https://github.com/mlab-modules/CLKGEN02
 homepage: false
+image_title: doc/gen/img/CLKGEN02-top.png
 images:
 - doc/img/CLKGEN02A_top_small.jpg
 - doc/img/CLKGEN02A_QRcode.png
